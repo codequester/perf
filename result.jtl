@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1553582962384,360,createCustomer,200,,Customer Service Perf Test 1-1,text,true,,257,246,1,1,359,0,268
+1553582962752,32,createCustomer,200,,Customer Service Perf Test 1-1,text,true,,257,246,1,1,32,0,0
+1553582962784,25,createCustomer,200,,Customer Service Perf Test 1-1,text,true,,257,246,1,1,24,0,0
+1553582962809,29,createCustomer,200,,Customer Service Perf Test 1-1,text,true,,257,246,1,1,29,0,0
+1553582962839,10,createCustomer,200,,Customer Service Perf Test 1-1,text,true,,257,246,1,1,10,0,0
+1553582962849,36,createCustomer,200,,Customer Service Perf Test 1-1,text,true,,257,246,1,1,36,0,0
+1553582962885,9,createCustomer,200,,Customer Service Perf Test 1-1,text,true,,257,246,1,1,9,0,0
+1553582962894,8,createCustomer,200,,Customer Service Perf Test 1-1,text,true,,257,246,1,1,8,0,0
+1553582962903,81,createCustomer,200,,Customer Service Perf Test 1-1,text,true,,257,246,1,1,81,0,0
+1553582962985,23,createCustomer,200,,Customer Service Perf Test 1-1,text,true,,258,247,1,1,23,0,0
